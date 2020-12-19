@@ -1,4 +1,4 @@
-# 010 - The `filter()` Method
+# The `filter()` Method
 
 To use this repository:
 - Click the "Use this template" button in the upper right
